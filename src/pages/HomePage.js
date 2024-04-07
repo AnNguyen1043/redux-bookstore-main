@@ -42,7 +42,7 @@ const HomePage = () => {
 
   useEffect(() => {
     dispatch(getBooks({ pageNumber: pageNum, pageSize: limit, query }));
-    console.log(books);
+    // console.log(books);
   }, [dispatch, pageNum, limit, query]);
 
   //--------------form
