@@ -23,17 +23,6 @@
       "id": "DD6341E90F6"
     },
     {
-      "author": "Homer",
-      "country": "Greece",
-      "imageLink": "images/the-iliad-of-homer.jpg",
-      "language": "Greek",
-      "link": "https://en.wikipedia.org/wiki/Iliad\n",
-      "pages": 608,
-      "title": "Iliad",
-      "year": -735,
-      "id": "5FB775A26043"
-    },
-    {
       "author": "Jane Austen",
       "country": "United Kingdom",
       "imageLink": "images/pride-and-prejudice.jpg",
@@ -43,6 +32,17 @@
       "title": "Pride and Prejudice",
       "year": 1813,
       "id": "52B864C4007"
+    },
+    {
+      "author": "Samuel Beckett",
+      "country": "Republic of Ireland",
+      "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+      "language": "French, English",
+      "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+      "pages": 256,
+      "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+      "year": 1952,
+      "id": "F7A61F18C49"
     }
   ],
   "books": [
